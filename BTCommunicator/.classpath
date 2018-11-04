@@ -6,6 +6,6 @@
 	<classpathentry kind="lib" path="BTCommunicator/jsr180.jar"/>
 	<classpathentry kind="lib" path="BTCommunicator/jsr184.jar"/>
 	<classpathentry kind="lib" path="BTCommunicator/jsr75.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Jenny/Downloads/bluecove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenny/Documents/BTCommunicator/BTCommunicator/bluecove-2.1.1.jar"/>
 	<classpathentry kind="output" path="BTCommunicator/bin"/>
 </classpath>
